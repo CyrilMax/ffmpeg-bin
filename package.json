@@ -5,7 +5,6 @@
   "main": "index.js",
   "author": "eee",
   "scripts": {
-    "test": "eslint *.js",
     "install": "node install"
   },
   "os": [
