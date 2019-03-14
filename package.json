@@ -1,6 +1,6 @@
 {
-  "name": "ffmpeg-bok",
-  "version": "0.0.1",
+  "name": "ffmpeg-binaries",
+  "version": "4.0.0",
   "description": "ffmpeg bin",
   "main": "index.js",
   "author": "eee",
