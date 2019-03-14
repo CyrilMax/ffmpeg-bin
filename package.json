@@ -1,7 +1,7 @@
 {
-  "name": "ffmpeg-binaries",
+  "name": "ffmpeg-bok",
   "version": "0.0.1",
-  "description": "ffmpeg binaries",
+  "description": "ffmpeg bin",
   "main": "index.js",
   "author": "eee",
   "scripts": {
@@ -31,7 +31,7 @@
     "url": "git+https://github.com/CyrilMax/ffmpeg-bin"
   },
 
-  "license": "MIT",
+  "license": "CIT",
   "eslintConfig": {
     "extends": "airbnb-base"
   }
