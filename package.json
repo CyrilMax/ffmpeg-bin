@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CyrilMax/FfmpegDj"
+    "url": "git+https://github.com/CyrilMax/ffmpeg-bin"
   },
 
   "license": "MIT",
